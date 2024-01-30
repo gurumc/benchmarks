@@ -8,4 +8,5 @@ Prerequisites:
 How to execute:
 1. Create a build directory(mkdir build)
 2. cd build
-3. cmake --build . 
+3. cmake ..
+4. make 
